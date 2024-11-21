@@ -39,6 +39,18 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 - Object-Oriented Programming
 - Machine Learning
 
+## My Skills
+
+| Language/Framework | Level      | Experience |
+|--------------------|------------|------------|
+| **JavaScript**      | Intermediate | 2+ years   |
+| **Python**          | Advanced    | 3+ years   |
+| **React**           | Intermediate | 1+ year    |
+| **Node.js**         | Intermediate | 1+ year    |
+| **HTML/CSS**        | Advanced    | 3+ years   |
+| **SQL**             | Intermediate | 1 year     |
+
+
 ## 📫 Contact
 
 - 📧 Email: [2023ucp1588@mnit.ac.in](mailto:2023ucp1588@mnit.ac.in)
