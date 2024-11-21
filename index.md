@@ -32,9 +32,6 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 - **Gaming**: A huge fan of video games and game development.
 - **Tech Communities**: I love being part of various tech communities to share knowledge and learn.
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
 ## 📫 Contact
 
