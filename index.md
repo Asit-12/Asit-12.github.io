@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate developer and an advocate for open-source. Below, you can learn more about me and my work. Feel free to reach out!
 
-![alt text](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTlCzu4QX-71xyLnGEldJ9lR9WI5WstSXQSmXOblYd-ydRsxuXL1iN89LqTdnVU1uZ2BU-uLUvSaxkVYzA)
+![alt text](https://github.com/[]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## 📝 About Me
 I am a full-stack developer with a focus on web technologies and a passion for creating efficient, user-friendly applications. I am also a lifelong learner who enjoys experimenting with new languages and frameworks. Outside of coding, I love exploring AI, machine learning, and gaming.
