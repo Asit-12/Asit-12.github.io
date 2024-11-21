@@ -43,11 +43,11 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 | Language/Framework| Level   	  | Experience |
 |-------------------|-------------|------------|
 | **JavaScript**  	| Intermediate| 2+ years   |
-| **Python**      	| Advanced	| 3+ years   |
-| **React**       	| Intermediate| 1+ year	|
-| **Node.js**     	| Intermediate| 1+ year	|
-| **HTML/CSS**    	| Advanced	| 3+ years   |
-| **SQL**         	| Intermediate| 1 year 	|
+| **Python**      	| Advanced	  | 3+ years   |
+| **React**       	| Intermediate| 1+ year	   |
+| **Node.js**     	| Intermediate| 1+ year	   |
+| **HTML/CSS**    	| Advanced	  | 3+ years   |
+| **SQL**         	| Intermediate| 1 year 	   |
 
 ## 📫 Contact
 
