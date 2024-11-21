@@ -32,6 +32,12 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 - **Gaming**: A huge fan of video games and game development.
 - **Tech Communities**: I love being part of various tech communities to share knowledge and learn.
 
+## Relevant Coursework:
+- Data Structures and Algorithms
+- Web Development
+- Database Systems
+- Object-Oriented Programming
+- Machine Learning
 
 ## My Skills
 | Language/Framework| Level   	  | Experience |
