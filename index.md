@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate developer and an advocate for open-source. Below, you can learn more about me and my work. Feel free to reach out!
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fmale-project-manager-animation-animated-cartoon-professional-business-man_153631880.htm&psig=AOvVaw1QrhiLL_Xtai1h4jOL-Pna&ust=1732269029760000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiRkpWT7YkDFQAAAAAdAAAAABAE)
+![alt text](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTlCzu4QX-71xyLnGEldJ9lR9WI5WstSXQSmXOblYd-ydRsxuXL1iN89LqTdnVU1uZ2BU-uLUvSaxkVYzA)
 
 ## 📝 About Me
 I am a full-stack developer with a focus on web technologies and a passion for creating efficient, user-friendly applications. I am also a lifelong learner who enjoys experimenting with new languages and frameworks. Outside of coding, I love exploring AI, machine learning, and gaming.
