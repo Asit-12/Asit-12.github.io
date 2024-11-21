@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate developer and an advocate for open-source. Below, you can learn more about me and my work. Feel free to reach out!
 
-![Profile Image](image.jpg)
+![vector product](https://github.com/asit-12/Asit-github.io/blob/main/image.jpg?raw=true)
 
 ## 📝 About Me
 I am a full-stack developer with a focus on web technologies and a passion for creating efficient, user-friendly applications. I am also a lifelong learner who enjoys experimenting with new languages and frameworks. Outside of coding, I love exploring AI, machine learning, and gaming.
