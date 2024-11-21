@@ -15,8 +15,8 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 
 | Degree            | Institution         | Year of Graduation |
 |-------------------|---------------------|--------------------|
-| B.Sc. in Computer Science | [XYZ University](https://www.xyzuniversity.edu) | 2023 |
-| M.Sc. in Data Science | [ABC University](https://www.abcuniversity.edu) | 2025 (Expected) |
+| B.Tech. in Computer Science | [MNIT Jaipur]| 2023 |
+| M.Tech. in Data Science | [IIT Bombay] | 2025 (Expected) |
 
 ## 🛠️ Skills
 
@@ -38,15 +38,15 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 
 ## 📫 Contact
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- 🌐 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
-- 🌍 LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- 📧 Email: [2023ucp1588@mnit.ac.in](mailto:2023ucp1588@mnit.ac.in)
+- 🐦 Twitter: [Asit](https://twitter.com/Asit)
+- 🌐 Portfolio: [www.asit_yadav.com](https://www.asit_yadav.com)
+- 🌍 LinkedIn: [Asityadav](https://www.linkedin.com/in/Asityadav)
 
 ## 🔗 My Latest Projects
 
-- [Project 1](https://github.com/your-username/project1): Description of your project.
-- [Project 2](https://github.com/your-username/project2): Description of your project.
+- [Project 1](https://github.com/Machinelearning): Machine learning project.
+- [Project 2](https://github.com/Webdevlopment): Web development project.
 - [Project 3](https://github.com/your-username/project3): Description of your project.
 
 ---
