@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate developer and an advocate for open-source. Below, you can learn more about me and my work. Feel free to reach out!
 
-![alt text](https://github.com/[Asit-12]/[Asit-12.github.io]/blob/[main]/image.jpg?raw=true)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jietjodhpur.ac.in%2Fblog%2Fcomputer-science-engineering-vs-artificial-intelligence&psig=AOvVaw3tIO-MiDDDz-fD27GcSz8P&ust=1732269556789000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjzz4-V7YkDFQAAAAAdAAAAABAE)
 
 ## 📝 About Me
 I am a full-stack developer with a focus on web technologies and a passion for creating efficient, user-friendly applications. I am also a lifelong learner who enjoys experimenting with new languages and frameworks. Outside of coding, I love exploring AI, machine learning, and gaming.
