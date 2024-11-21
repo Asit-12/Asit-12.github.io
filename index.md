@@ -4,10 +4,10 @@
 ---
 
 ## 🏫 **Education**  
-| **Degree** | **Institution** | **Year** | **Specialization** |  
-|------------------------|------------------------------|----------------|--------------------------|  
-| Bachelor of Technology | National Institute of XYZ | 2023 - Present | Computer Science |  
-| High School | Senior Secondary School | 2020 - 2022 | Science (PCM + CS) |  
+| **Degree**             | **Institution**           | **Year**       | **Specialization** |  
+|------------------------|---------------------------|----------------|--------------------|  
+| Bachelor of Technology | National Institute of XYZ | 2023 - Present | Computer Science   |  
+| High School            | Senior Secondary School   | 2020 - 2022    | Science (PCM + CS) |  
 
 ### [Malaviya National Institute of Technology, Jaipur]  
 *Bachelor of Science in Computer Science*  
@@ -29,14 +29,14 @@ Relevant Coursework:
 
 ---
 ### My Skills
-| Language/Framework | Level   	| Experience |
-|---------------------|-------------|------------|
-| **JavaScript**  	| Intermediate| 2+ years   |
-| **Python**      	| Advanced	| 3+ years   |
-| **React**       	| Intermediate| 1+ year	|
-| **Node.js**     	| Intermediate| 1+ year	|
-| **HTML/CSS**    	| Advanced	| 3+ years   |
-| **SQL**         	| Intermediate| 1 year 	|
+| Language/Framework | Level   	   | Experience |
+|--------------------|-------------|------------|
+| **JavaScript**  	 | Intermediate| 2+ years   |
+| **Python**      	 | Advanced	   | 3+ years   |
+| **React**       	 | Intermediate| 1+ year	  |
+| **Node.js**     	 | Intermediate| 1+ year	  |
+| **HTML/CSS**    	 | Advanced	   | 3+ years   |
+| **SQL**         	 | Intermediate| 1 year 	  |
 
 ---
 
