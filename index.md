@@ -1,4 +1,4 @@
-# Hello, I'm [Asit Yadav] 👋
+# Hello, I'm Asit Yadav 👋
 
 Welcome to my GitHub! I'm a passionate developer and an advocate for open-source. Below, you can learn more about me and my work. Feel free to reach out!
 
