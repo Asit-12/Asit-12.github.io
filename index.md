@@ -15,8 +15,8 @@ I am a full-stack developer with a focus on web technologies and a passion for c
 
 | Degree            | Institution         | Year of Graduation |
 |-------------------|---------------------|--------------------|
-| B.Tech. in Computer Science | [MNIT Jaipur]| 2023 |
-| M.Tech. in Data Science | [IIT Bombay] | 2025 (Expected) |
+| B.Tech. in Computer Science | MNIT Jaipur| 2027 |
+| M.Tech. in Data Science | IIT Bombay | 2029 (Expected) |
 
 ## 🛠️ Skills
 
